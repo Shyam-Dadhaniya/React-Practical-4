@@ -23,4 +23,5 @@ $ npm start
 ##### Open http://localhost: .... to view it in your browser.
 
 #### App Preview:
-![Screenshot from 2022-03-07 14-08-52](https://user-images.githubusercontent.com/97106864/157000302-38d96925-79b2-4e37-8b39-d4b66f5baff4.png)
+![Screenshot from 2022-03-09 09-35-01](https://user-images.githubusercontent.com/97106864/157370838-314904c0-4052-4b03-8ee7-13efaf8aac41.png)
+

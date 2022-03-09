@@ -1,4 +1,7 @@
-body {
+import { createGlobalStyle } from 'styled-components';
+ 
+const GlobalStyle = createGlobalStyle`
+ body {
   margin: 0;
   background: #F0EFE9;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -16,3 +19,14 @@ code {
 ::-webkit-scrollbar{
   display: none;
 }
+
+.complete{
+    color: green;
+}
+
+.not-complete{
+    color: grey;
+}
+`;
+ 
+export default GlobalStyle;

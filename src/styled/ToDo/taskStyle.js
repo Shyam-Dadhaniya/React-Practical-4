@@ -7,4 +7,7 @@ const ToDOTaskStyle = styled.div`
   padding: 3px;
   margin: 0.5em;
 `;
+export const TodotaskTitle = styled.div`
+  color:${(props) => (props.completed ? 'gray' : 'black')} ;
+`
 export default ToDOTaskStyle;

@@ -20,13 +20,6 @@ code {
   display: none;
 }
 
-.complete{
-    color: green;
-}
-
-.not-complete{
-    color: grey;
-}
 `;
  
 export default GlobalStyle;

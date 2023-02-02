@@ -7,6 +7,7 @@ const Header = () => {
   return (
     <>
       <HeaderStyle>
+        <div><h1>Header</h1></div>
         <HeaderDate />
         <HeaderDay />
       </HeaderStyle>
